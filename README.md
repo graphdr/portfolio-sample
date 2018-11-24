@@ -8,13 +8,13 @@ Richard Layton
 
 Your portfolio cover art is your audience’s first interaction with your
 data display work. Use your best work here to attract the reader’s
-attention and invite them to read further.
+attention, pique their curiosity, and invite them to read further.
 
 ## Introduction
 
 A portfolio documents your professional growth and competence by
 providing tangible evidence of your knowledge and skills in data
-visualization and visual rhetoric. The introduuction is the reader’s
+visualization and visual rhetoric. The introduction is the reader’s
 first glimpse of your work; give them a reason to keep reading.
 
 Even if your repo is private, treat these pages as if you intended to
