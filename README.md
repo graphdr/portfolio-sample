@@ -1,12 +1,16 @@
 
-## Portfolio of data displays
+# Portfolio of data displays
 
 Richard Layton  
 2018-11-24
 
-<img src="resources/fig010-migration-extra.png" width="80%" />
+<img src="resources/fig010-migration-extra.png" width="90%" />
 
-### Introduction
+Your portfolio cover art is your audience’s first interaction with your
+data display work. Use your best work here to attract the reader’s
+attention and invite them to read further.
+
+## Introduction
 
 A portfolio documents your professional growth and competence by
 providing tangible evidence of your knowledge and skills in data
@@ -16,7 +20,7 @@ first glimpse of your work; give them a reason to keep reading.
 Even if your repo is private, treat these pages as if you intended to
 make them available to a prospective employer.
 
-### Displays and critiques
+## Displays and critiques
 
 This is the main body of the portfolio. Each link takes the reader to a
 stand-alone report about a specific display, its data, critique, and
@@ -36,7 +40,7 @@ labels as you wish.
   - [D6 Title](reports/d6.md) (graph type)
   - [D7 Title](reports/d7.md) (graph type)
 
-### Discussion notes
+## Discussion notes
 
 These notes are from weekly small-group discussions in class that
 include the student’s own ideas and peer feedback. The purpose of the
