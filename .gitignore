@@ -1,8 +1,9 @@
 # History files
 .Rhistory
 .Rapp.history
-*.Rmd
-*/*.Rmd
+
+README.Rmd
+
 holding
 */holding
 
