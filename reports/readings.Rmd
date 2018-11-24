@@ -11,16 +11,6 @@ opts_knit$set(root.dir = "../")
 opts_chunk$set(echo = FALSE, out.width = "70%", comment = NULL)
 ```
 
-## D1 Title
+## Reading responses
 
-prose
 
-data
-
-discussion 
-
-graph 
-
-critique 
-
-references
