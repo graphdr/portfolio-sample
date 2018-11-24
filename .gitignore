@@ -1,7 +1,10 @@
 # History files
 .Rhistory
 .Rapp.history
-README.Rmd
+*.Rmd
+*/*.Rmd
+holding
+*/holding
 
 # Session Data files
 .RData
