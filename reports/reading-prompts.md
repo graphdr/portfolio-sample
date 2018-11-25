@@ -1,5 +1,5 @@
 
-## Reading responses
+## Reading prompts
 
 ## week 2
 

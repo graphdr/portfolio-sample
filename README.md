@@ -2,7 +2,7 @@
 # Portfolio of data displays
 
 Richard Layton  
-2018-11-24
+2018-11-25
 
 <img src="resources/fig010-migration-extra.png" width="90%" />
 
@@ -46,7 +46,8 @@ These notes are from weekly small-group discussions in class that
 include the student’s own ideas and peer feedback. The purpose of the
 notes is to inform the critiques.
 
-  - [Reading responses](reports/reading-responses.md) (5 total) Complete
+  - [Reading prompts](reports/reading-prompts.md) (5 total) Complete
     before class on the due date.
-  - [Roundtable e-notes](reports/roundtables.md) (7 total) Complete
-    during and after the small-group discussion.
+  - [Presentation prompts](reports/presentation-prompts.md) (7 total)
+    Substantially complete (except for peer comments) before class on
+    the due date.
