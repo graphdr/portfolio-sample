@@ -46,7 +46,7 @@ These notes are from weekly small-group discussions in class that
 include the student’s own ideas and peer feedback. The purpose of the
 notes is to inform the critiques.
 
-  - [Reading responses](reports/readings.md) (5 total) Complete before
-    class on the due date.
+  - [Reading responses](reports/reading-responses.md) (5 total) Complete
+    before class on the due date.
   - [Roundtable e-notes](reports/roundtables.md) (7 total) Complete
     during and after the small-group discussion.
