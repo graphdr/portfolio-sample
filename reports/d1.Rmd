@@ -1,5 +1,7 @@
 ---
 output: github_document
+bibliography: "../resources/references.bib"
+csl: "../resources/journal-of-glaciology.csl"
 ---
 
 ## D1 Title

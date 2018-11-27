@@ -2,7 +2,7 @@
 # Portfolio of data displays
 
 Richard Layton  
-2018-11-25
+2018-11-27
 
 <img src="resources/fig010-migration-extra.png" width="90%" />
 
