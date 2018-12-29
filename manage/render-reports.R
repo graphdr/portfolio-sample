@@ -2,7 +2,7 @@
 library(rmarkdown)
 
 # identify the path to the directory we want
-path_to_Rmds <- c("../", "reports")
+path_to_Rmds <- c("reports")
 
 # find all files that end in .md
 md_scripts <- list.files(
