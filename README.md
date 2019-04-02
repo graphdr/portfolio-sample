@@ -56,7 +56,7 @@ Conundrum of clarity
 [Reading responses 5](reports/reading-prompts-5.Rmd) Spence (2006)
 Playfair & psychology of graphs
 
-[Video reflection 1](reports/video-reflection-1.md)  
+[Reflections on rhetoric](reports/video-reflection-1.md)  
 Sample reflection on the ideas of data journalists in discovering
 stories
 
