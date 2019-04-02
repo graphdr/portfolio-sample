@@ -5,9 +5,9 @@ Your name
 Date published
 
 (Place an image with a brief caption to illustrate your best work.)  
-<img src="resources/cm000_header2.png" width="90%" /> <small><br> Ames
-Iowa Housing, a parallel-coordinate plot adapted from Visual data
-exploration by Bradley Boehmke. </br></small>
+<img src="resources/cm000_header2.png" width="90%" /> <small> <br>
+<i>Ames Iowa Housing</i>, a parallel-coordinate plot adapted from Visual
+data exploration by Bradley Boehmke. </br> </small>
 
 ## Introduction
 
@@ -45,16 +45,18 @@ bar, etc.) and summarize the main points of the report.
 
 ## Discussion notes
 
-[Reading prompts 1](reports/reading-prompts-1.Rmd) Tufte (1997) Decision
-to launch Challenger  
-[Reading prompts 2](reports/reading-prompts-2.Rmd) Wainer (2014) 15
+[Reading responses 1](reports/reading-prompts-1.Rmd) Tufte (1997)
+Decision to launch Challenger  
+[Reading responses 2](reports/reading-prompts-2.Rmd) Wainer (2014) 15
 displays about one thing  
-[Reading prompts 3](reports/reading-prompts-3.Rmd) Dragga and Voss
+[Video reflection 1](reports/video-reflection-1.Rmd) Reflection on the
+ideas of data journalists in discovering stories  
+[Reading responses 3](reports/reading-prompts-3.Rmd) Dragga and Voss
 (2001) Cruel pies  
-[Reading prompts 4](reports/reading-prompts-4.Rmd) Kostelnick (2007)
+[Reading responses 4](reports/reading-prompts-4.Rmd) Kostelnick (2007)
 Conundrum of clarity  
-[Reading prompts 5](reports/reading-prompts-5.Rmd) Spence (2006)
+[Reading responses 5](reports/reading-prompts-5.Rmd) Spence (2006)
 Playfair & psychology of graphs
 
-[Presentation prompts](reports/presentation-prompts.md)  
+[Presentation responses](reports/presentation-prompts.md)  
 Your prose as needed.
