@@ -49,14 +49,16 @@ bar, etc.) and summarize the main points of the report.
 Decision to launch Challenger  
 [Reading responses 2](reports/reading-prompts-2.Rmd) Wainer (2014) 15
 displays about one thing  
-[Video reflection 1](reports/video-reflection-1.Rmd) Reflection on the
-ideas of data journalists in discovering stories  
 [Reading responses 3](reports/reading-prompts-3.Rmd) Dragga and Voss
 (2001) Cruel pies  
 [Reading responses 4](reports/reading-prompts-4.Rmd) Kostelnick (2007)
 Conundrum of clarity  
 [Reading responses 5](reports/reading-prompts-5.Rmd) Spence (2006)
 Playfair & psychology of graphs
+
+[Video reflection 1](reports/video-reflection-1.md)  
+Sample reflection on the ideas of data journalists in discovering
+stories
 
 [Presentation responses](reports/presentation-prompts.md)  
 Your prose as needed.
