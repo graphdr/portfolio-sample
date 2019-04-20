@@ -60,5 +60,8 @@ Playfair & psychology of graphs
 Sample reflection on the ideas of data journalists in discovering
 stories
 
+[Reflections on rhetoric 2](reports/video-reflection-2.md)  
+Reflecting on detecting and preventing graphical lies
+
 [Presentation responses](reports/presentation-prompts.md)  
 Your prose as needed.

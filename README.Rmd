@@ -72,6 +72,9 @@ State the type of graph (cycle plot, financial plot, diverging stacked bar, etc.
 [Reflections on rhetoric](reports/video-reflection-1.md)    
 Sample reflection on the ideas of data journalists in discovering stories  
 
+[Reflections on rhetoric 2](reports/video-reflection-2.md)    
+Reflecting on detecting and preventing graphical lies    
+
 
 [Presentation responses](reports/presentation-prompts.md)    
 Your prose as needed.   
