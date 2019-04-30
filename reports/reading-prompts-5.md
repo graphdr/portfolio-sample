@@ -1,0 +1,21 @@
+
+<br> Copy and paste the following raw Rmd script into your own Rmd file
+
+## week 10 reading prompts
+
+Spence, Ian (2006) William Playfair and the psychology of graphs. In:
+*IEEE Transactions on Professional Communication.* Alexandria, VA:
+American Statistical Association, section on statistical graphics,
+2426–2436.
+
+**Prompt:**
+
+**Response:**
+
+**Prompt:**
+
+**Response:**
+
+**Prompt:**
+
+**Response:**
